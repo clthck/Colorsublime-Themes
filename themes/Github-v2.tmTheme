@@ -1576,6 +1576,18 @@
                     <string>normal</string>
                 </dict>
             </dict>
+            <!-- Embedded variable -->
+            <dict>
+                <key>name</key>
+                <string>Embedded Language Variable</string>
+                <key>scope</key>
+                <string>source.ruby.embedded.source</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#bc3405</string>
+                </dict>
+            </dict>
 
 
 
