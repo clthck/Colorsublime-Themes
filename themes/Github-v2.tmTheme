@@ -794,7 +794,7 @@
                 <key>name</key>
                 <string>Function Definition</string>
                 <key>scope</key>
-                <string>source.js meta.function entity.name.function, source.js entity.name.function meta.function</string>
+                <string>source.js meta.function entity.name.function, source.js entity.name.function meta.function, source.js meta.class-method entity.name.function</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
